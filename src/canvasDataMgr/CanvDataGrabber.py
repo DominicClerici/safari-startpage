@@ -11,8 +11,7 @@ from CanvDataUpdater import TimeDrop
 import time
 import datetime 
 import pandas as pd
-
-print(os.getcwd())
+from password.info import username, password
 
 # picklePath = './src/canvasDataMgr/CanvasData.pkl'
 # cookiePath = './src/canvasDataMgr/CanvasCookies.pkl'
@@ -37,9 +36,9 @@ def GetNewCanvData():
     try:
         driver.get('https://iu.instructure.com')
         wait2 = WebDriverWait(driver, 60)
-        wait2.until(EC.element_to_be_clickable((By.ID, "username"))).send_keys("dclerici")
+        wait2.until(EC.element_to_be_clickable((By.ID, "username"))).send_keys(username)
         inp2 = driver.find_element(By.ID, 'password')
-        inp2.send_keys("Iamgoingtocollege")
+        inp2.send_keys(password)
         btn = driver.find_element(By.ID, "login-button")
         btn.click()
         print('waiting on duo')
