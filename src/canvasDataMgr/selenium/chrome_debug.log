@@ -1,0 +1,220 @@
+[1446:259:0308/183938.739028:WARNING:chrome_main_delegate.cc(617)] This is Chrome version 110.0.5481.177 (not a warning)
+[1446:259:0308/183938.963512:ERROR:chrome_browser_main.cc(1019)] The use of Rosetta to run the x64 version of Chromium on Arm is neither tested nor maintained, and unexpected behavior will likely result. Please check that all tools that spawn Chromium are Arm-native.
+[1446:41219:0308/183942.531339:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for accounts.google.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183943.142228:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.google.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:35331:0308/183943.658751:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for iu.instructure.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183944.195228:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.gstatic.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183944.259990:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for idp.login.iu.edu failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183944.634607:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for apis.google.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183945.367818:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for content-autofill.googleapis.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183947.033660:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for api-cd22e904.duosecurity.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:259:0308/183948.417942:INFO:CONSOLE(0)] "Refused to load the image 'https://duo.com/' because it violates the following Content Security Policy directive: "img-src 'self'".
+", source: https://api-cd22e904.duosecurity.com/frame/frameless/v4/auth?sid=frameless-0f565fb5-46e0-47c6-8271-2552182cfb8b&tx=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkdW9fdW5hbWUiOiJkY2xlcmljaSIsInNjb3BlIjoib3BlbmlkIiwicmVzcG9uc2VfdHlwZSI6ImNvZGUiLCJyZWRpcmVjdF91cmkiOiJodHRwczpcL1wvaWRwLmxvZ2luLml1LmVkdVwvaWRwXC9wcm9maWxlXC9BdXRoblwvRHVvXC8yRkFcL2R1by1jYWxsYmFjayIsInN0YXRlIjoiYjViNTdlMGU1ZWJlZDlhOTEyYjEwNjFjODYyNWE4YmQuNjUzMTczMzMiLCJleHAiOjE2NzgzMjIzODYsImNsaWVudF9pZCI6IkRJU1lSNFJCRUQ5OUhZQTRZNDM5In0.acwna2ouRArFaVhii5trteqS-tICDU_t7Q3oXKX2O_q_SwVDlTYVMn67QnLVcGqAMNGy_Jn83gzvxaZtOqg_kA (0)
+[1446:41219:0308/183951.010976:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for sso.canvaslms.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183952.682400:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for du11hjcvx0uqb.cloudfront.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:35331:0308/183952.682526:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for du11hjcvx0uqb.cloudfront.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183952.739556:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for instructure-uploads.s3.amazonaws.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183952.916976:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for designtools.ciditools.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.116191:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for files.ciditools.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.252142:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for fonts.googleapis.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.484942:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for fonts.gstatic.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.523412:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdn.heapanalytics.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.540657:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdnsecakmi.kaltura.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183953.587916:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for inst-fs-iad-prod.inscloudgate.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183954.201610:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for relay-iad.sentry.insops.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:259:0308/183954.839588:INFO:CONSOLE(831)] "IU Canvas Theme loaded", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:41219:0308/183954.860319:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for heapanalytics.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183954.898648:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for www.google-analytics.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183955.013291:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for coursequestionnaire.iu.edu failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183955.019522:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for prod.ally.ac failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:259:0308/183955.761783:INFO:CONSOLE(831)] "master_controls.js loaded", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.538947:INFO:CONSOLE(831)] "Translation for "If left empty link, text will display as course link name" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542023:INFO:CONSOLE(831)] "Translation for "Count" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542119:INFO:CONSOLE(831)] "Translation for "Document" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542187:INFO:CONSOLE(831)] "Translation for "Selection" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542333:INFO:CONSOLE(831)] "Translation for "Words" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542361:INFO:CONSOLE(831)] "Translation for "Characters (no spaces)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/183956.542413:INFO:CONSOLE(831)] "Translation for "Characters" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:41219:0308/183958.196088:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for stats.g.doubleclick.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:41219:0308/183958.668291:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for live.staticflickr.com failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:259:0308/183958.812342:INFO:CONSOLE(831)] "Failed to bootstrap ally [object Object]", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:41219:0308/183958.894464:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for cdn.inst-fs-iad-prod.inscloudgate.net failed:
+----- Certificate i=1 (CN=Selenium Wire CA) -----
+ERROR: No matching issuer found
+
+
+[1446:259:0308/184001.484746:INFO:CONSOLE(831)] "Translation for "Afrikaans" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485007:INFO:CONSOLE(831)] "Translation for "Albanian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485065:INFO:CONSOLE(831)] "Translation for "Arabic" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485172:INFO:CONSOLE(831)] "Translation for "Belarusian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485272:INFO:CONSOLE(831)] "Translation for "Bulgarian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485340:INFO:CONSOLE(831)] "Translation for "Catalan" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485421:INFO:CONSOLE(831)] "Translation for "Chinese" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485462:INFO:CONSOLE(831)] "Translation for "Croatian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485540:INFO:CONSOLE(831)] "Translation for "Czech" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485728:INFO:CONSOLE(831)] "Translation for "Danish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485798:INFO:CONSOLE(831)] "Translation for "Dutch" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485911:INFO:CONSOLE(831)] "Translation for "English" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.485938:INFO:CONSOLE(831)] "Translation for "Estonian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486035:INFO:CONSOLE(831)] "Translation for "Filipino" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486057:INFO:CONSOLE(831)] "Translation for "Finnish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486150:INFO:CONSOLE(831)] "Translation for "French" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486177:INFO:CONSOLE(831)] "Translation for "Galician" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486248:INFO:CONSOLE(831)] "Translation for "German" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486284:INFO:CONSOLE(831)] "Translation for "Greek" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486342:INFO:CONSOLE(831)] "Translation for "Haitian Creole" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486437:INFO:CONSOLE(831)] "Translation for "Hindi" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486495:INFO:CONSOLE(831)] "Translation for "Hungarian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486548:INFO:CONSOLE(831)] "Translation for "Icelandic" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486591:INFO:CONSOLE(831)] "Translation for "Indonesian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486655:INFO:CONSOLE(831)] "Translation for "Irish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486717:INFO:CONSOLE(831)] "Translation for "Italian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486796:INFO:CONSOLE(831)] "Translation for "Japanese" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486830:INFO:CONSOLE(831)] "Translation for "Korean" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.486925:INFO:CONSOLE(831)] "Translation for "Latvian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487018:INFO:CONSOLE(831)] "Translation for "Lithuanian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487113:INFO:CONSOLE(831)] "Translation for "Macedonian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487202:INFO:CONSOLE(831)] "Translation for "Malay" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487233:INFO:CONSOLE(831)] "Translation for "Maltese" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487310:INFO:CONSOLE(831)] "Translation for "Norwegian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487403:INFO:CONSOLE(831)] "Translation for "Persian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487433:INFO:CONSOLE(831)] "Translation for "Polish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487500:INFO:CONSOLE(831)] "Translation for "Portuguese" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487552:INFO:CONSOLE(831)] "Translation for "Romanian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487628:INFO:CONSOLE(831)] "Translation for "Russian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487682:INFO:CONSOLE(831)] "Translation for "Serbian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487755:INFO:CONSOLE(831)] "Translation for "Slovak" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487775:INFO:CONSOLE(831)] "Translation for "Slovenian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487848:INFO:CONSOLE(831)] "Translation for "Spanish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487906:INFO:CONSOLE(831)] "Translation for "Swahili" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.487985:INFO:CONSOLE(831)] "Translation for "Swedish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488058:INFO:CONSOLE(831)] "Translation for "Tagalog" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488103:INFO:CONSOLE(831)] "Translation for "Thai" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488188:INFO:CONSOLE(831)] "Translation for "Turkish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488267:INFO:CONSOLE(831)] "Translation for "Ukrainian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488286:INFO:CONSOLE(831)] "Translation for "Vietnamese" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488358:INFO:CONSOLE(831)] "Translation for "Welsh" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488413:INFO:CONSOLE(831)] "Translation for "Yiddish" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488432:INFO:CONSOLE(831)] "Translation for "English (Canada)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488480:INFO:CONSOLE(831)] "Translation for "English (Australia)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488556:INFO:CONSOLE(831)] "Translation for "English (United Kingdom)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488625:INFO:CONSOLE(831)] "Translation for "French (Canada)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488653:INFO:CONSOLE(831)] "Translation for "Hebrew" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488723:INFO:CONSOLE(831)] "Translation for "Armenian" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.488934:INFO:CONSOLE(831)] "Translation for "Māori (New Zealand)" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.489912:INFO:CONSOLE(831)] "Translation for "Norwegian Bokmål" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.489975:INFO:CONSOLE(831)] "Translation for "Norwegian Nynorsk" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.490038:INFO:CONSOLE(831)] "Translation for "Chinese Simplified" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184001.490130:INFO:CONSOLE(831)] "Translation for "Chinese Traditional" in "en" is missing", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184004.600459:INFO:model_executor_impl.cc(188)] Segmentation model result: 1 for segment OPTIMIZATION_TARGET_SEGMENTATION_SEARCH_USER
+[1446:259:0308/184004.626873:INFO:model_executor_impl.cc(188)] Segmentation model result: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER
+[1446:259:0308/184004.626923:INFO:model_executor_impl.cc(188)] Segmentation model result: 0 for segment OPTIMIZATION_TARGET_SEGMENTATION_SHOPPING_USER
+[1446:259:0308/184004.627164:INFO:model_executor_impl.cc(188)] Segmentation model result: 1 for segment CROSS_DEVICE_USER_SEGMENT
+[1446:259:0308/184004.627354:INFO:model_executor_impl.cc(188)] Segmentation model result: 1 for segment CROSS_DEVICE_USER_SEGMENT
+[1446:259:0308/184004.627455:INFO:model_executor_impl.cc(188)] Segmentation model result: 0 for segment RESUME_HEAVY_USER_SEGMENT
+[1446:259:0308/184005.117934:INFO:CONSOLE(831)] "FocusPriorItemOnLoadMore could not find the item that should receive focus", source: https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-e-6e4ac5375f.js (831)
+[1446:259:0308/184009.871504:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
